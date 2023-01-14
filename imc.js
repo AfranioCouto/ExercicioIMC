@@ -58,5 +58,6 @@ Olá Prezada (o)
     Seu índice de massa corporal (IMC) é de ${imc.toFixed(2)} !
     Você está ${classificacao}.
     Seu peso ideal é entre ${pesoIdeal01.toFixed(1)} kg e ${pesoIdeal02.toFixed(1)} kg.
+    Cuidar da sua saúde é fundamental para uma melhor qualidade de vida!!
 `)
 })
